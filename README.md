@@ -6,9 +6,12 @@ The only way for two teams to speak the same language is if those two teams are 
 2. Confirm that you have `git` installed on your machine by typing `which git` into the terminal app and pressing `enter`. The terminal should return a file path similar to this `/usr/bin/git`. If so, you're in good shape!
 3. In your terminal, navigate to your desktop directory. You can do this with the following command: `cd ~/Desktop`
 4. Clone the repository onto your computer with the following command : `git clone https://github.com/cdarland/chakra-playground.git`. This will download the playground repo into your desktop.
-5. Navigate to the playground repo in your terminal app with the following command: `cd ~/Desktop/chakra-playground`
-6. Install all app dependencies with the following command: `yarn install`. This might take a couple minutes. Don't worry. Go grab a coffee.
-7. You're all set!
+5. Confirm you have Apple's Xcode developer tools installed on your machine. You can install these through the Apple App Store by searching "Xcode" and selecting the Xcode developer tools made by Apple. This will take a WHILE! Have a beer and relax.
+6. Confirm that you have node installed on your machine with the command: `node -v`. It should return a value that looks similar to this `1.11.12` in format. If you receive an error message please reach out to me.
+7. Install Yarn on your machine by running the following command: `npm install --global yarn`.
+8. Navigate to the playground repo in your terminal app with the following command: `cd ~/Desktop/chakra-playground`
+9. Install all app dependencies with the following command: `yarn install`. This might take a couple minutes. Don't worry. Go grab a coffee.
+10. You're all set!
 
 ## Install a code editor
 There are dozens of code editors out there for you to select from, but the most commonly used editor that comes highly recommended by our React developers is called Visual Studio Code, or "VS Code" for short. You can download a copy [here](https://code.visualstudio.com/). 
