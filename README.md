@@ -11,7 +11,7 @@ The only way for two teams to speak the same language is if those two teams are 
 7. You're all set!
 
 ## Install a code editor
-There are dozens of code editors out there for you to select from, but the most commonly used editor that comes highly recommended by our React developers is called Visual Studio Code, or "VS Code" for short. You can download a copy (here)[https://code.visualstudio.com/]. 
+There are dozens of code editors out there for you to select from, but the most commonly used editor that comes highly recommended by our React developers is called Visual Studio Code, or "VS Code" for short. You can download a copy [here](https://code.visualstudio.com/). 
 If you have a different code editor of choice, have at it! The world is your oyster.
 
 ## Running the app locally
@@ -21,5 +21,5 @@ If you have a different code editor of choice, have at it! The world is your oys
 4. Open your browser of choice and navigate to the following URL: `http://localhost:3000`. If this is your first time loading the app you should see a simple grid layout with mint and periwinkle blocks.
 
 ## Chakra UI Documentation
-The base component library that we have chosen for SSB's design system is called (Chakra UI)[https://chakra-ui.com/resources]. It's a super flexible, battle tested React.js component library that allows us to jumpstart our design system by not forcing us to reinvent the wheel. 
-To familiarize yourself with Chakra's components and design patterns check out the documentation (here)[https://chakra-ui.com/resources].
+The base component library that we have chosen for SSB's design system is called [Chakra UI](https://chakra-ui.com/resources). It's a super flexible, battle tested React.js component library that allows us to jumpstart our design system by not forcing us to reinvent the wheel. 
+To familiarize yourself with Chakra's components and design patterns check out the documentation [here](https://chakra-ui.com/resources).
